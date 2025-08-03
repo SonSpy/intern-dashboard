@@ -25,13 +25,6 @@ A simple and elegant dashboard for fundraising interns that displays referral co
 
 ---
 
-## 🚀 Live Demo
-
-🔗 [View the Hosted Site](https://your-live-demo-link.com)  
-_(Replace this with your actual Netlify/Vercel link)_
-
----
-
 ## 🛠️ Local Setup Instructions
 
 ### 1. Clone the Repository
